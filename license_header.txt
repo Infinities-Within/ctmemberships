@@ -1,0 +1,4 @@
+Copyright (C) {{.Year}} {{.Holder}}
+
+This software is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International license.
+See LICENSE file in the root of the project for more information.
